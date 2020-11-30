@@ -1,6 +1,6 @@
-# [title]
+# CSS | Paper shadow
 
-#### [brief description]
+#### example of a paper using just CSS code
 
 ## Published
 
